@@ -53,6 +53,14 @@
 | Dependabot       | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)                       | `![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)`                       |
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 
+##
+
+<div align='center'>
+
+### <a href='#markdown-badges'>Ir ao ímdice</a>
+  
+</div>
+
 ### 🔗 Blockchain
 
 | Name        | Badge                                                                                                                | Markdown                                                                                                               |
