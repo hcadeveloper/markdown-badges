@@ -6,19 +6,31 @@
 
 - <a href='#-intelig%C3%AAncia-artificial-e-bots'>1. Inteligência Artificial e Bots</a>
 - <a href='#-blockchain'>2. Blockchain</a>
-- <a href='#blog'>3. Blog</a>
-- <a href='#navegadores'>4. Navegadores</a>
+- <a href='#-blog'>3. Blog</a>
+- <a href='#-navegadores'>4. Navegadores</a>
 - <a href='#-ci%C3%AAncia'>5. Ciência</a>
-- <a href='#cd'>6. CD</a>
-- <a href='#nuvem'>7. Nuvem</a>
+- <a href='#-cd'>6. CD</a>
+- <a href='#-nuvem'>7. Nuvem</a>
 - <a href='#-crypto-moedas'>8. Crypto Moedas</a>
-- <a href=''>9. </a>
-- <a href=''>10. </a>
-- <a href=''>11. </a>
-- <a href=''>12. </a>
-- <a href=''>13. </a>
-- <a href=''>14. </a>
-- <a href=''>15. </a>
+- <a href='#-banco-de-dados'>9. Banco de Dados</a>
+- <a href='#-design'>10. Design</a>
+- <a href='#-developerforums'>11. Developer/Forums</a>
+- <a href='#-plataformas-de-documenta%C3%A7%C3%B5es'>12. Plataformas de Documentações</a>
+- <a href='#-educa%C3%A7%C3%A3o'>13. Educação</a>
+- <a href='#-funding'>14. Funding</a>
+- <a href='#-frameworks-e-bibliotecas'>15. Frameworks e Bibliotecas</a>
+- <a href='#-jogos'>16. Jogos</a>
+- <a href=''>17. </a>
+- <a href=''>18. </a>
+- <a href=''>19. </a>
+- <a href=''>20. </a>
+- <a href=''>21. </a>
+- <a href=''>22. </a>
+- <a href=''>23. </a>
+- <a href=''>24. </a>
+- <a href=''>25. </a>
+- <a href=''>26. </a>
+- <a href=''>27. </a>
 
 </details>
 
