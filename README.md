@@ -20,17 +20,26 @@
 - <a href='#-funding'>14. Funding</a>
 - <a href='#-frameworks-e-bibliotecas'>15. Frameworks e Bibliotecas</a>
 - <a href='#-jogos'>16. Jogos</a>
-- <a href=''>17. </a>
-- <a href=''>18. </a>
-- <a href=''>19. </a>
-- <a href=''>20. </a>
-- <a href=''>21. </a>
-- <a href=''>22. </a>
-- <a href=''>23. </a>
-- <a href=''>24. </a>
-- <a href=''>25. </a>
-- <a href=''>26. </a>
-- <a href=''>27. </a>
+- <a href='#%EF%B8%8F-consoles-de-jogos'>17. Consoles de Jogos</a>
+- <a href='#%EF%B8%8F-hostingsaas'>18. Hosting/SaaS</a>
+- <a href='#-ideseditores'>19. IDEs/Editores</a>
+- <a href='#-linguagens'>20. Linguagens</a>
+- <a href='#%EF%B8%8F-mldl'>21.  ML/DL</a>
+- <a href='#-m%C3%BAsicas-e-som'>22. Músicas e Som</a>
+- <a href='#-microsoft-office'>23. Microsoft Office</a>
+- <a href='#%EF%B8%8F-sistemas-opreracionais'>24. Sistemas Opreracionais</a>
+- <a href='#-orm'>25. ORM</a>
+- <a href='#-outros'>26. Outros</a>
+- <a href='#-mecanismos-de-busca'>27. Mecanismos de Busca</a>
+- <a href='#%EF%B8%8F-servidores'>28. Servidores</a>
+- <a href='#-social'>29. Social</a>
+- <a href='#-smartphone-brands'>30. Smartphone Brands</a>
+- <a href='#%EF%B8%8F-store'>31. Store</a>
+- <a href='#-streaming'>32. Streaming</a>
+- <a href='#-testing'>33. Testing</a>
+- <a href='#-controle-de-vers%C3%A3o'>34. Controle de Versão</a>
+- <a href='#%EF%B8%8F-wearables'>35. Wearables</a>
+- <a href='#-trabalhos'>36. Trabalhos</a>
 
 </details>
 
