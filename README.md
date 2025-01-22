@@ -1,106 +1,6 @@
 # Markdown Badges
-Add badges to your Profile and Projects.
 
-# Table of contents
-- [Markdown Badges](#markdown-badges)
-- [Table of contents](#table-of-contents)
-- [Usage](#usage)
-- [Tips](#tips)
-- [Badges](#badges)
-  - <details> <summary>List of badges</summary>
- 
-     - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
-     - [Blog](#-blog)
-     - [Blockchain](#-blockchain)
-     - [Browsers](#-browsers)
-     - [CD](#-cd)
-     - [CI](#-ci)
-     - [Cloud Storage](#-cloud-storage)
-     - [Cryptocurrency](#-cryptocurrency)
-     - [Databases](#-databases)
-     - [Design](#-design)
-     - [Developer/Forums](#-developerforums)
-     - [Documentation Platforms](#-documentation-platforms)
-     - [Education](#-education)
-     - [Funding](#-funding)
-     - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-     - [Gaming](#-gaming)
-     - [Game Consoles](#%EF%B8%8F-game-consoles)
-     - [Hosting/SaaS](#-hostingsaas)
-     - [IDEs/Editors](#-ideseditors)
-     - [Languages](#-languages)
-     - [ML/DL](#%EF%B8%8F-mldl)
-     - [Music](#-music)
-     - [Office](#-office)
-     - [Operating System](#%EF%B8%8F-operating-system)
-     - [ORM](#-orm)
-     - [Other](#-other)
-     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-     - [Search Engines](#search-engines)
-     - [Servers](#servers)
-     - [Smartphone Brands](#smartphone-brands)
-     - [Social](#social)
-     - [Store](#store)
-     - [Streaming](#streaming)
-     - [Testing](#testing)
-     - [Version Control](#version-control)
-     - [Wearables](#wearables)
-     - [Work/Jobs](#workjobs)
-   </details>
-
-
-# Usage
-To use a badge:
-- Via Github
-    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
-    1. Enter the name of the badge you need.
-    1. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
-
-# Tips
-
-<details> 
-<summary>👇 How to use a different badge style</summary>
-<hr>
-
-> <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
-
-
-Shields.io offers 5 styles, which are:
-| S/N | Types         | Styles                                                                                                    |
-| :-: | :------------ | :-------------------------------------------------------------------------------------------------------- |
-| 1   | Plastic       | ![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic)                     |
-| 2   | Flat-square   | ![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)        |
-| 3   | Flat          | ![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat)                              |
-| 4   | Social        | ![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)                        |
-| 5   | For-the-badge | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge) |
-
-
-
-💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
-```
-Example.
-
-🧷  For plastic
-https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
-
-🤏🏽  For Flat
-https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
-```
-
-</details>
-
-<details> 
-<summary>👇 Use Ctrl + F or CMD + F to search</summary>
- <hr>
-
- > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
-</details>
-
-
-
-# Badges
-
-### 🤖 Artificial Intelligence and Bots
+### 🤖 Inteligência Artificial e Bots
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -109,16 +9,11 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Dependabot       | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)                       | `![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)`                       |
 | Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 
-
-[(Back to top)](#table-of-contents)
-
 ### 🔗 Blockchain
 
 | Name        | Badge                                                                                                                | Markdown                                                                                                               |
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)` |
-
-[(Back to top)](#table-of-contents)
 
 ### 📝 Blog
 
@@ -134,9 +29,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Substack   | ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)| `![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)`    |
 | Wix        | ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)                         | `![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)`                         |
 
-[(Back to top)](#table-of-contents)
-
-### 🌐 Browsers
+### 🌐 Navegadores
 
 | Name          | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -150,9 +43,8 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Tor           | ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)                        | `![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)`                        |
 | Vivaldi       | ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)                    | `![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)`                    |
 
-[(Back to top)](#table-of-contents)
 
-### 🔬 CI
+### 🔬 Ciência
 
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | -------------- |---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -164,17 +56,13 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | TeamCity       | ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)                       | `![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)`                       |
 | Travis CI      | ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)                   | `![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)`                   |
 
-[(Back to top)](#table-of-contents)
-
 ### 📲 CD
 
 | Name           | Badge                                                                                                                          | Markdown                                                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Octopus Deploy | ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) | `![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
-
-### 📂 Cloud Storage
+### 📂 Nuvem
 
 | Name         | Badge                                                                                                                    | Markdown                                                                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -186,9 +74,9 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | OneDrive   | ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)       | `![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)`       |
 | Proton Drive | ![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)  |  `![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
 
-### 💲 Cryptocurrency
+
+### 💲 Crypto Moedas
 
 | Name         | Badge                                                                                                                       | Markdown                                                                                                                      |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -210,9 +98,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Xrp          | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                 | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                 |
 | Z Cash       | ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)                         | `![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)`                         |
 
-[(Back to top)](#table-of-contents)
-
-### 💾 Databases
+### 💾 Banco de Dados
 
 | Name                 | Badge                                                                                                                                                | Markdown                                                                                                                                               |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -238,7 +124,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | SurrealDB             | ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)                                          | `![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)`                                          |
 | Teradata             | ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)                                          | `![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)`                                          |
 
-[(Back to top)](#table-of-contents)
+
 
 ### 🎨 Design
 
@@ -274,8 +160,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Sketch                  | ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)                                                                | `![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)`                                                                |
 | Storybook               | ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)                                                      | `![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)`                                                      |
 
-[(Back to top)](#table-of-contents)
-
 ### 🧑‍💻 Developer/Forums
 
 | Name           | Badge                                                                                                                                 | Markdown                                                                                                                                |
@@ -295,9 +179,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Stack Overflow | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)         | `![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)`         |
 | XDA-Developers | ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white) | `![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
-
-### 📑 Documentation Platforms
+### 📑 Plataformas de Documentações
 
 | Name      | Badge                                                                                                                 | Markdown                                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -305,9 +187,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Wikipedia | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | `![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)` |
 | Wiki.js   | ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)     | `![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)`     |
 
-[(Back to top)](#table-of-contents)
-
-### 🎓 Education
+### 🎓 Educação
 
 | Name            | Badge                                                                                                                        | Markdown                                                                                                                       |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -331,7 +211,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Udacity         | ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)                      | `![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`                      |
 | Udemy           | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)                           | `![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)`                           |
 
-[(Back to top)](#table-of-contents)
 
 ### 💰 Funding
 
@@ -351,9 +230,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Samsung Pay         | ![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)             | `![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)`             |
 | Wise | ![Wise](https://img.shields.io/badge/wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)                            | `![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)`                            |
 
-[(Back to top)](#table-of-contents)
-
-### 📚 Frameworks, Platforms and Libraries
+### 📚 Frameworks e Bibliotecas
 
 | Name               | Badge                                                                                                                                           | Markdown                                                                                                                                          |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -463,9 +340,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Xamarin            | ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)                                        | `![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)`                                        |
 | Yarn               | ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)                                          | `![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)`                                          |
 
-[(Back to top)](#table-of-contents)
-
-### 🎮 Gaming
+### 🎮 Jogos
 
 | Name                | Badge                                                                                                                           | Markdown                                                                                                                          |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -486,9 +361,8 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Unreal Engine       | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) | `![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)` |
 | Xbox                | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                          | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                          |
 
-[(Back to top)](#table-of-contents)
 
-### 🕹️ Game Consoles
+### 🕹️ Consoles de Jogos 
 
 | Name             | Badge                                                                                                                                 | Markdown                                                                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -504,8 +378,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Wii              | ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)                                          | `![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)`                                          |
 | Wii U            | ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)                                   | `![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)`                                   |
 | Xbox             | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                                | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                                |
-
-[(Back to top)](#table-of-contents)
 
 ### ☁️ Hosting/SaaS
 
@@ -533,9 +405,9 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Vercel        | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                    | `![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)`                    |
 | Vultr         | ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)                                          | `![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)`                                         |
 
-[(Back to top)](#table-of-contents)
 
-### 💻 IDEs/Editors
+
+### 💻 IDEs/Editores
 
 | Name               | Badge                                                                                                                                             | Markdown                                                                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -570,9 +442,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Zend               | ![Zend](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)                                                     | `![Zend](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)`                                                     |
 | Stackblitz               | ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)                                                     | `![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)`                                                     |
 
-[(Back to top)](#table-of-contents)
-
-### 📋 Languages
+### 📋 Linguagens
 
 | Name             | Badge                                                                                                                                        | Markdown                                                                                                                                         |
 | -------------    | --------------------------------------------------------------------------------------------------------------------------------             | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -621,8 +491,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Windows Terminal | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) | `![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)` |
 | Zig              | ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)                                          | `![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)`                                            |
 
-[(Back to top)](#table-of-contents)
-
 ### 🖥️ ML/DL
 
 | Name         | Badge                                                                                                                           | Markdown                                                                                                                          |
@@ -638,9 +506,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | SciPy        | ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | `![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)`                      |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        | `![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)`        |
 
-[(Back to top)](#table-of-contents)
-
-### 🎶 Music
+### 🎶 Músicas e Som
 
 | Name          | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -653,9 +519,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Tidal         | ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)                         | `![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)`                         |
 | YouTube Music | ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) | `![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
-
-### 🏢 Office
+### 🏢 Microsoft Office
 
 | Name                 | Badge                                                                                                                                            | Markdown                                                                                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -669,9 +533,9 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Microsoft Visio      | ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)                | `![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)`                |
 | Microsoft Word       | ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)                    | `![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)`                    |
 
-[(Back to top)](#table-of-contents)
 
-### 🎛️ Operating System
+
+### 🎛️ Sistemas Opreracionais
 
 | Name          | Badge                                                                                                                          | Markdown                                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -716,8 +580,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Windows XP    | ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)             | `![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)`             |
 | Zorin OS      | ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)                 | `![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)`                 |
 
-[(Back to top)](#table-of-contents)
-
 ### 🎋 ORM
 
 | Name      | Badge                                                                                                          | Markdown                                                                                                         |
@@ -727,9 +589,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Sequelize | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)` |
 | Quill     | ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)            | `![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)`            |
 
-[(Back to top)](#table-of-contents)
-
-### 🥅 Other
+### 🥅 Outros
 
 | Name           | Badge                                                                                                                                  | Markdown                                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -782,17 +642,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | XFCE           | ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)                                 | `![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)`                                 |
 | Zigbee         | ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)                           | `![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)`                           |
 
-[(Back to top)](#table-of-contents)
-
-### 🖥️ Quantum Programming Frameworks and Libraries
-
-| Name   | Badge                                                                                                        | Markdown                                                                                                       |
-| ------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| Qiskit | ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | `![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)` |
-
-[(Back to top)](#table-of-contents)
-
-### 🔍 Search Engines
+### 🔍 Mecanismos de Busca
 
 | Name       | Badge                                                                                                                   | Markdown                                                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -802,9 +652,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Google     | ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)                   | `![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)`                   |
 | Yahoo!     | ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)                   | `![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)`                   |
 
-[(Back to top)](#table-of-contents)
-
-### 🗄️ Servers
+### 🗄️ Servidores
 
 | Name           | Badge                                                                                                                               | Markdown                                                                                                                              |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -817,8 +665,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Gunicorn       | ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)                    | `![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)`                    |
 | Jenkins        | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)                     | `![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)`                     |
 | Nginx          | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                           | `![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)`                           |
-
-[(Back to top)](#table-of-contents)
 
 ### 💬 Social
 
@@ -866,8 +712,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Zoom        | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)                              | `![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)`                              |
 | Threads        | ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)                       | `![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)`                       |
 
-[(Back to top)](#table-of-contents)
-
 ### 📱 Smartphone Brands
 
 | Name       | Badge                                                                                                                 | Markdown                                                                                                                |
@@ -884,8 +728,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Samsung    | ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)       | `![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)`       |
 | Xiaomi     | ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)          | `![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)`          |
 
-[(Back to top)](#table-of-contents)
-
 ### 🛍️ Store
 
 | Name       | Badge                                                                                                               | Markdown                                                                                                              |
@@ -894,7 +736,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | F-Droid    | ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)            | `![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)`            |
 | Play Store | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) | `![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
+
 
 ### 📺 Streaming
 
@@ -912,8 +754,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)                             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                             |
 | Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)    | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`    |
 
-[(Back to top)](#table-of-contents)
-
 ### 🧪 Testing
 
 | Name            | Badge                                                                                                                               | Markdown                                                                                                                              |
@@ -925,9 +765,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Selenium        | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)                       | `![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)`                       |
 | Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) | `![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
-
-### 🕓 Version Control
+### 🕓 Controle de Versão
 
 | Name           | Badge                                                                                                                      | Markdown                                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -943,17 +781,13 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | Mercurial      | ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)         | `![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)`         |
 | Perforce Helix | ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) | `![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
-
 ### ⌚️ Wearables
 
 | Name       | Badge                                                                                                                 | Markdown                                                                                                                |
 | ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Fitbit      | ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)             | `![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)`             |
 
-[(Back to top)](#table-of-contents)
-
-### 💼 Work/Jobs
+### 💼 Trabalhos
 
 | Name         | Badge                                                                                                                      | Markdown                                                                                                                     |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -964,6 +798,3 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 | HackerRank   | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)         | `![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`         |
 | Indeed       | ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)                      | `![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`                      |
 | Upwork       | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
-
-
-[(Back to top)](#table-of-contents)
