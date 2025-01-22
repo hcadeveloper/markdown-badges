@@ -1,5 +1,28 @@
 # Markdown Badges
 
+<details>
+
+<summary> Índice </summary> 
+
+- <a href='#-intelig%C3%AAncia-artificial-e-bots'>1. Inteligência Artificial e Bots</a>
+- <a href='#-blockchain'>2. Blockchain</a>
+- <a href='#blog'>3. Blog</a>
+- <a href='#navegadores'>4. Navegadores</a>
+- <a href='#-ci%C3%AAncia'>5. Ciência</a>
+- <a href='#cd'>6. CD</a>
+- <a href='#nuvem'>7. Nuvem</a>
+- <a href='#-crypto-moedas'>8. Crypto Moedas</a>
+- <a href=''>9. </a>
+- <a href=''>10. </a>
+- <a href=''>11. </a>
+- <a href=''>12. </a>
+- <a href=''>13. </a>
+- <a href=''>14. </a>
+- <a href=''>15. </a>
+
+</details>
+
+
 ### 🤖 Inteligência Artificial e Bots
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
